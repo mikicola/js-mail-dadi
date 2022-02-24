@@ -1,9 +1,10 @@
-// your email ----> valid ---> message OK    
-//             ---> invalid--> message RIPROVA
-
-
-
-let allowedEmail = ["miki@bo.com","banana@bo.com"];
+let allowedEmail = [
+"miki@gmail.com","giovanna@gmail.com",
+"donato@gmail.com","davide@gmail.com",
+"gina@gmail.com","pina@gmail.com",
+"dina@gmail.com","nina@gmail.com",
+"gino@gmail.com","pino@gmail.com",
+"dino@gmail.com","nino@gmail.com"];
 
 let email = document.getElementById("email");
 let btnCheck = document.getElementById("btnCheck");
