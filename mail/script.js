@@ -1,6 +1,5 @@
+
 let allowedEmail = [
-"miki@gmail.com","giovanna@gmail.com",
-"donato@gmail.com","davide@gmail.com",
 "gina@gmail.com","pina@gmail.com",
 "dina@gmail.com","nina@gmail.com",
 "gino@gmail.com","pino@gmail.com",
